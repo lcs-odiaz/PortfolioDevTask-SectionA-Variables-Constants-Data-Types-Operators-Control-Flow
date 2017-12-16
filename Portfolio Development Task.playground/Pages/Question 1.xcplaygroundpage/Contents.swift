@@ -9,10 +9,14 @@
  
  Use the camel case convention for variable names.
  */
-// Answer question 1 below
+
+// how much time travelled from
 var howlongwetravelledfor = 5.875
+//how fast the car travelled
 var avereageSpeedOfCar = 80.0
+//Distance travelled from Lakefield to Montreal
 let totalDistanceTravelled = avereageSpeedOfCar * howlongwetravelledfor
+
 
 /*:
 - callout(Shortcut): The **Edit All in Scope** menu command is useful when renaming variables – place your cursor within the variable name and then invoke the menu command.
