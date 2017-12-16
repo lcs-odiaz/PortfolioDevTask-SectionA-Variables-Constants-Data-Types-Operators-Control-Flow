@@ -17,7 +17,9 @@
  
  */
 // Answer question 2 below
-
+let nameOfAlbum = "Ego Death"
+var copiesSold = 23584765952403
+var suggestedSellingPrice = 99.99
 /*:
  ## Now share your understanding
  
