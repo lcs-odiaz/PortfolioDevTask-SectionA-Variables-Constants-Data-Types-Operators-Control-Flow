@@ -19,6 +19,11 @@
  
  */
 // Answer question 4 below
+var moneyIHaveEarned : Double = 0.0
+moneyIHaveEarned += 5.0
+moneyIHaveEarned -= 2.0
+moneyIHaveEarned *= 4.0
+moneyIHaveEarned -= 0.75 * 13.0
 
 /*:
  ## Now share your understanding
