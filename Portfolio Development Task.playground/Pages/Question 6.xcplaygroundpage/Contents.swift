@@ -18,6 +18,21 @@
  */
 // Answer question 6 below
 
+let tagetDiastance : Double = 100
+var currentDistanceRun : Double = 30
+// this variable finds what percentage of the target distance you have done
+var percentageRun = tagetDiastance / currentDistanceRun
+if percentageRun  < 0.10 {
+    print("Great start, keep it up!")
+} else if percentageRun >= 0.45 && percentageRun < 0.50 {
+    print("You're almost at halfway!")
+} else if percentageRun == 0.5 {
+    print("Halfway there!")
+} else if percentageRun > 0.9 {
+    print("Nearly done!")
+} else if percentageRun == 1.0 {
+    print("REAT JOB! You're finished the run.")
+}
 
 /*:
  ## Now share your understanding
