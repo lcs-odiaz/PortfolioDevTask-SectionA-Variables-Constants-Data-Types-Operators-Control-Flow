@@ -19,6 +19,11 @@
  
  */
 // Answer question 3 below
+var valueOfDimes : Double = 0.10
+var dimeCount : Int = 23
+var valueOfQuarters = 0.25
+var quarterCount : Int = 69
+let totalValueOfCoins = valueOfQuarters * Double(quarterCount) + valueOfDimes * Double(dimeCount)
 
 /*:
  ## Now share your understanding
