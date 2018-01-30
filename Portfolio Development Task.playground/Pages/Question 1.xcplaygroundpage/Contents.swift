@@ -11,11 +11,11 @@
  */
 
 // how much time travelled from
-var howLongWeTravelledFor = 5.89
+var howLongWeTravelled = 5.9
 //how fast the car travelled
-var avereageSpeedOfCar = 40.0
+var avereageSpeedOfCar = 46.0
 //Distance travelled from Lakefield to Montreal
-let totalDistanceTravelled = avereageSpeedOfCar * howLongWeTravelledFor
+let totalDistanceTravelled = avereageSpeedOfCar * howLongWeTravelled
 
 
 /*:
