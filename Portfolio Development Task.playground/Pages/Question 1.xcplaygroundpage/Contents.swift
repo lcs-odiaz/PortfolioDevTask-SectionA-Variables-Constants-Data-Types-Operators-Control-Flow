@@ -10,10 +10,10 @@
  Use the camel case convention for variable names.
  */
 
-// how much time travelled from
-var howLongWeTravelled = 5.9
+// how much time travelled from Lakefield to Montreal
+var howLongWeTravelled = 7.2
 //how fast the car travelled
-var avereageSpeedOfCar = 46.0
+var avereageSpeedOfCar = 23.4
 //Distance travelled from Lakefield to Montreal
 let totalDistanceTravelled = avereageSpeedOfCar * howLongWeTravelled
 
